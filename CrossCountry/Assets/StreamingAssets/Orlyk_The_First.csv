@@ -1,0 +1,2 @@
+#MaxCanter,MinCanter,MaxTrot,MinTrot,MaxWalk,Endurance,PersonalStamina,JumpingHeight,JumpingWidth,Skittishness,Obedience,Trust,SpeedQuant,RotateDegreesPerSecond,LookAhead,JumpHorizontalSpeed,EnduranceMinForJump,EnduranceMinForRunOut
+51,20,25,7,8,5000,10,13,8,0.03,0.8,0.9,0.1,10,5,30,0.1f,0.5f
