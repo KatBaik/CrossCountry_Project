@@ -1,0 +1,9 @@
+Endurance,200,150,100
+CanterSpeed,40,30,20
+TrotSpeed,25,15,7
+WalkSpeed,8,4,0
+JumpingHeight,8,5,3
+JumpingWidth,10,7,5
+Skittishness,0.2,0.3,0.4
+Obedience,0.8,0.7,0.5
+Trust,0.8,0.7,0.5

@@ -1,0 +1,6 @@
+#IdCode,score,height,width,requiredSpeedMin,requiredSpeedMax,requiredEndurance,requiredTrust,maxSkittishness,requiredObedience
+1,13,6.50,1.91,11.13,37.24,20.19,0.07,0.95,0.19
+2,18,7.66,1.79,11.04,32.02,19.89,0.07,0.95,0.18
+3,47,9.58,3.00,14.86,38.15,21.09,0.32,0.99,0.34
+4,43,11.71,3.85,12.08,49.94,22.86,0.13,0.95,0.30
+5,24,9.40,2.56,8.01,41.99,19.25,0.12,0.81,0.31
